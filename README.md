@@ -1,2 +1,2 @@
-# M-Krisztian.gitthub.io
+# M-Krisztian.github.io
 Demo page
